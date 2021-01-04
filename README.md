@@ -1,5 +1,5 @@
 # Control System for Two DC motors
-Control System for Two DC motors using Tinkercad simulation 
+(Smart Methods Internship) Control System for Two DC motors using Tinkercad simulation 
 * pin_pwm and pin_pwm2 are responsable for changing speed of motors by a value from 0 to 255 
 * 1A and 2A is responsable for changing direction according to the table below (3A and 4A act same for the other motor)
 
